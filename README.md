@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS , Adobe Photoshop and Adobe Illustrator**
 
 - 📫 How to reach me **lodekerobert@gmail.com**
 
