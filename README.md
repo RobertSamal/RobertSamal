@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertsamal" alt="robertsamal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/robertsamal" target="blank"><img src="https://img.shields.io/twitter/follow/robertsamal?logo=twitter&style=for-the-badge" alt="robertsamal" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/samal_robert/" target="blank"><img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="robertsamal" /></a> </p>
 
 - 🔭 I’m currently working on **Healthy eating and workout**
 
